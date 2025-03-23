@@ -100,9 +100,7 @@ DELETE /usuarios/1
 ## Instalación
 
 1. Clona el repositorio.
-2. Ejecuta `npm install` para instalar las dependencias.
-3. Configura las variables de entorno.
-4. Ejecuta `npm start` para iniciar el servidor.
+2. Ejecuta `mvn spring-boot:run` para iniciar el servicio en local
 
 ## Contribuciones
 
